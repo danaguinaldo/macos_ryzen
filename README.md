@@ -1,1 +1,2 @@
-# macos_ryzen
+# MacOS Ryzen Hackintosh
+
